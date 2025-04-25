@@ -52,4 +52,4 @@ This implementation recreates key aspects of Unfold's animation concept:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/instagram-plan-ui.git
+   git clone https://github.com/Abdelilah27/Plan-Feed-Animation.git
