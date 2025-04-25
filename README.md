@@ -53,3 +53,8 @@ This implementation recreates key aspects of Unfold's animation concept:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Abdelilah27/Plan-Feed-Animation.git
+
+## Demo
+
+https://github.com/user-attachments/assets/d6739dff-4769-4452-a02d-4766ce50ee5d
+
