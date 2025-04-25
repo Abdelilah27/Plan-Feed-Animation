@@ -56,5 +56,4 @@ This implementation recreates key aspects of Unfold's animation concept:
 
 ## Demo
 
-https://github.com/user-attachments/assets/d6739dff-4769-4452-a02d-4766ce50ee5d
-
+https://github.com/user-attachments/assets/4125306d-063b-4b86-bd7b-f8f0f865bb6d
